@@ -9,7 +9,7 @@ This is a simple interactive color changer project that allows users to change t
 
 ## Features
 
-- Clicking the "Change Color" button updates the background color of the box.
+- Clicking the "Change Color" button updates the color of the box and also updates the background color .
 - The button has a hover animation to provide visual feedback.
 
 ## Demo
